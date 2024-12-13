@@ -1,0 +1,232 @@
+{
+  "Mappings": [
+    {
+      "TermOfPayment": "VD",
+      "MethodOfPayment": "CA",
+      "MappedTerm": "00",
+      "MappedMethod": "CA"
+    },
+    {
+      "TermOfPayment": "VD",
+      "MethodOfPayment": "CQ",
+      "MappedTerm": "00",
+      "MappedMethod": "CA"
+    },
+    {
+      "TermOfPayment": "VD",
+      "MethodOfPayment": "DD",
+      "MappedTerm": "00",
+      "MappedMethod": "CA"
+    },
+    {
+      "TermOfPayment": "VD",
+      "MethodOfPayment": "TR",
+      "MappedTerm": "00",
+      "MappedMethod": "CA"
+    },
+    {
+      "TermOfPayment": "VD",
+      "MethodOfPayment": "",
+      "MappedTerm": "00",
+      "MappedMethod": "CA"
+    },
+    {
+      "TermOfPayment": "30",
+      "MethodOfPayment": "CA",
+      "MappedTerm": "00",
+      "MappedMethod": "CA"
+    },
+    {
+      "TermOfPayment": "30",
+      "MethodOfPayment": "CQ",
+      "MappedTerm": "30",
+      "MappedMethod": "CH"
+    },
+    {
+      "TermOfPayment": "30",
+      "MethodOfPayment": "DD",
+      "MappedTerm": "30",
+      "MappedMethod": "DD"
+    },
+    {
+      "TermOfPayment": "30",
+      "MethodOfPayment": "TR",
+      "MappedTerm": "30",
+      "MappedMethod": "TRF"
+    },
+    {
+      "TermOfPayment": "30",
+      "MethodOfPayment": "",
+      "MappedTerm": "00",
+      "MappedMethod": "CA"
+    },
+    {
+      "TermOfPayment": "",
+      "MethodOfPayment": "CA",
+      "MappedTerm": "00",
+      "MappedMethod": "CA"
+    },
+    {
+      "TermOfPayment": "",
+      "MethodOfPayment": "TR",
+      "MappedTerm": "00",
+      "MappedMethod": "CA"
+    },
+    {
+      "TermOfPayment": "",
+      "MethodOfPayment": "",
+      "MappedTerm": "00",
+      "MappedMethod": "CA"
+    },
+    {
+      "TermOfPayment": "A",
+      "MethodOfPayment": "CA",
+      "MappedTerm": "00",
+      "MappedMethod": "CA"
+    },
+    {
+      "TermOfPayment": "A",
+      "MethodOfPayment": "CP",
+      "MappedTerm": "00",
+      "MappedMethod": "CA"
+    },
+    {
+      "TermOfPayment": "A",
+      "MethodOfPayment": "CQ",
+      "MappedTerm": "00",
+      "MappedMethod": "CA"
+    },
+    {
+      "TermOfPayment": "A",
+      "MethodOfPayment": "TR",
+      "MappedTerm": "00",
+      "MappedMethod": "CA"
+    },
+    {
+      "TermOfPayment": "A",
+      "MethodOfPayment": "",
+      "MappedTerm": "00",
+      "MappedMethod": "CA"
+    },
+    {
+      "TermOfPayment": "90",
+      "MethodOfPayment": "CA",
+      "MappedTerm": "00",
+      "MappedMethod": "CA"
+    },
+    {
+      "TermOfPayment": "90",
+      "MethodOfPayment": "CQ",
+      "MappedTerm": "90",
+      "MappedMethod": "CH"
+    },
+    {
+      "TermOfPayment": "90",
+      "MethodOfPayment": "DD",
+      "MappedTerm": "90",
+      "MappedMethod": "DD"
+    },
+    {
+      "TermOfPayment": "90",
+      "MethodOfPayment": "TR",
+      "MappedTerm": "90",
+      "MappedMethod": "TRF"
+    },
+    {
+      "TermOfPayment": "60",
+      "MethodOfPayment": "CA",
+      "MappedTerm": "00",
+      "MappedMethod": "CA"
+    },
+    {
+      "TermOfPayment": "60",
+      "MethodOfPayment": "CQ",
+      "MappedTerm": "60",
+      "MappedMethod": "CH"
+    },
+    {
+      "TermOfPayment": "60",
+      "MethodOfPayment": "DD",
+      "MappedTerm": "60",
+      "MappedMethod": "DD"
+    },
+    {
+      "TermOfPayment": "60",
+      "MethodOfPayment": "TR",
+      "MappedTerm": "60",
+      "MappedMethod": "TRF"
+    },
+    {
+      "TermOfPayment": "45",
+      "MethodOfPayment": "CQ",
+      "MappedTerm": "30",
+      "MappedMethod": "CH"
+    },
+    {
+      "TermOfPayment": "45",
+      "MethodOfPayment": "TR",
+      "MappedTerm": "30",
+      "MappedMethod": "TRF"
+    },
+    {
+      "TermOfPayment": "DD",
+      "MethodOfPayment": "DD",
+      "MappedTerm": "30",
+      "MappedMethod": "DD"
+    },
+    {
+      "TermOfPayment": "12",
+      "MethodOfPayment": "TR",
+      "MappedTerm": "120",
+      "MappedMethod": "TRF"
+    },
+    {
+      "TermOfPayment": "10",
+      "MethodOfPayment": "CA",
+      "MappedTerm": "00",
+      "MappedMethod": "CA"
+    },
+    {
+      "TermOfPayment": "46",
+      "MethodOfPayment": "",
+      "MappedTerm": "00",
+      "MappedMethod": "CA"
+    },
+    {
+      "TermOfPayment": "61",
+      "MethodOfPayment": "",
+      "MappedTerm": "60A",
+      "MappedMethod": "TRF"
+    },
+    {
+      "TermOfPayment": "62",
+      "MethodOfPayment": "",
+      "MappedTerm": "60A",
+      "MappedMethod": "TRF"
+    },
+    {
+      "TermOfPayment": "63",
+      "MethodOfPayment": "",
+      "MappedTerm": "60B",
+      "MappedMethod": "TRF"
+    },
+    {
+      "TermOfPayment": "91",
+      "MethodOfPayment": "",
+      "MappedTerm": "90A",
+      "MappedMethod": "TRF"
+    },
+    {
+      "TermOfPayment": "92",
+      "MethodOfPayment": "",
+      "MappedTerm": "90A",
+      "MappedMethod": "TRF"
+    },
+    {
+      "TermOfPayment": "93",
+      "MethodOfPayment": "",
+      "MappedTerm": "90B",
+      "MappedMethod": "TRF"
+    }
+  ]
+}
